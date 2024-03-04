@@ -4,15 +4,15 @@ module.exports = {
   config: {
     name: "tell",
     version: "1.0",
-    author: "lezzy 😋",
-    countDown: 5,
+    author: "Mr perfect😋",
+    countDown: 0,
     role: 2,
     shortDescription: "Send multiple messages to a specific group",
     longDescription: "Send multiple messages to a specific group",
     category: "owner",
     guide: "{pn} <message> <count>",
     envConfig: {
-      delayPerGroup: 250,
+      delayPerGroup: 5000,
     },
   },
 
